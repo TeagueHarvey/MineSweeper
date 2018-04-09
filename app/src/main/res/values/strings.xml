@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="toggle_flag">Toggle Flag</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="_3_mines">3 Mines</string>
+    <string name="_5_mines">5 Mines</string>
+    <string name="_7_mines">7 Mines</string>
+    <string name="_9_mines">9 Mines</string>
+</resources>
